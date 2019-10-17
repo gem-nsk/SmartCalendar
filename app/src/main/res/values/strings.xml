@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SmartCalendar</string>
+    <string name="defaultDay">Январь 1970</string>
+</resources>
