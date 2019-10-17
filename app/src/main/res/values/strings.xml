@@ -1,4 +1,20 @@
 <resources>
     <string name="app_name">SmartCalendar</string>
     <string name="defaultDay">Январь 1970</string>
+    <string name="firstDay">1</string>
+    <string name="ShowCalendar">Открывает большой календарь</string>
+    <string name="ShowSettings">Открывает окно настроек профиля и приложенияяя</string>
+<!--    menu items    -->
+    <string name="Tasts_menu">Задачи</string>
+    <string name="Calendar_menu">Календарь</string>
+    <string name="Planner_menu">Планировщик</string>
+
+    <string name="Monday">      ПН</string>
+    <string name="Tuesday">     ВТ</string>
+    <string name="Wednesday">   СР</string>
+    <string name="Thursday">    ЧТ</string>
+    <string name="Friday">      ПТ</string>
+    <string name="Saturday">    СБ</string>
+    <string name="Sunday">      ВС</string>
+
 </resources>
