@@ -8,4 +8,7 @@
 <!--    material colors-->
     <color name="gray700">#616161</color>
     <color name="gray900">#212121</color>
+    <color name="orange800">#ef6c00</color>
+    <color name="orange500">#ff9800</color>
+    <color name="blue800">#1565c0</color>
 </resources>

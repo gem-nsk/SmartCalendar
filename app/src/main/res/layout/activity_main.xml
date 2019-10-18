@@ -74,12 +74,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true">
+
         <com.google.android.material.bottomnavigation.BottomNavigationView
                 android:id="@+id/bottom_navigation"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/white"
-                app:itemIconTint="@color/gray900"
+                app:itemIconTint="#3F51B5"
                 app:itemTextColor="@color/gray900"
                 app:menu="@menu/navigation_items" />
     </LinearLayout>

@@ -40,5 +40,5 @@ dependencies {
 
     implementation 'com.google.android.material:material:1.0.0'
 
-    compile "com.github.debop:koda-time:1.2.1"
+    implementation "com.github.debop:koda-time:1.2.1"
 }

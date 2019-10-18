@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@+id/action_search"
-            android:title="@string/Tasts_menu"
-            android:icon="@drawable/ic_done" />
+    <item
+            android:id="@+id/action_search"
+            android:icon="@drawable/ic_done"
+            android:title="@string/Tasts_menu" />
     <item android:id="@+id/action_settings"
             android:title="@string/Calendar_menu"
             android:icon="@drawable/ic_date" />
